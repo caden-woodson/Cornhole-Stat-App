@@ -1,0 +1,14 @@
+{
+    "name": "src",
+    "version": "1.0.0",
+    "description": "",
+    "main": "Form.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "https-server ./"
+    },
+    "keywords": [],
+    "author": "SrA Caden 'Woody Jr' Woodson",
+    "license": "ISC",
+    "type": "module"
+}
